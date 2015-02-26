@@ -10,16 +10,16 @@ solution
 --workN
 </pre>
   
-Specialty - направление подготовки (bit, biz, inb, ist, ivt, pin, pmi, poi)
-SurnameName - Фамилия (транслит)
-Initials - Инициалы (транслит)
+* Specialty - направление подготовки (bit, biz, inb, ist, ivt, pin, pmi, poi)
+* SurnameName - Фамилия (транслит)
+* Initials - Инициалы (транслит)
 
 Например, poiIvanovII, bitPetrovMI
 
 
 ## Правила именования
 
-**Все названия набираются лининицей**
+**Все названия набираются латиницей**
 
 ### Пакеты (package name.surname.specialty.packagename)
 
